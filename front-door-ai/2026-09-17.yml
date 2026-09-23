@@ -1,0 +1,31 @@
+# Front Door AI Index — deep-genomics — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: deep-genomics
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: www.deepgenomics.com
+  final_host: www.deepgenomics.com
+  ownership: own
+  owner: deep-genomics
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 16
+  host_score: 16
+  density: 17.32
+  words: 924
+  tiers:
+    agentic: 0
+    core: 16
+    model: 0
+  ambiguous: 3
+  top_terms:
+    AI: 8
+    foundation model: 3
+    artificial intelligence: 2
+    deep learning: 2
+    intelligence: 2
+    automation: 1
+    machine learning: 1
